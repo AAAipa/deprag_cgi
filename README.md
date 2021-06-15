@@ -10,15 +10,15 @@ Python3 package requests 2.18.4
 
 ## Implemented function Blocks
 
-| Number        | Name           | Required parameter  |
+| Number        | Name           | Required parameters  |
 | ------------- |-------------|-------------|
 |   1   |Tightening to Torque without Angle supervision | |
-|   6   | centered      | |
-|   6   | centered      | |
-|   4   | centered      | |
-|   24   | centered      | |
-|   25   | centered      | |
-|   26   | centered      | |
+|   6   |Loosen to Torque without Angle supervision     | |
+|   6   |Loosen to Torque with Angle supervision      | |
+|   4   |Tightening to External Signal      | |
+|   24  |Display Values      |- |
+|   25  |Save Values      |- |
+|   26  |Statistic      |-|
 
 ## Error Coding 
 • 0: No error
