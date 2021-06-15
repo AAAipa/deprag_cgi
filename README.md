@@ -23,7 +23,7 @@ Python3 package requests 2.18.4
 
 ## Building from Source
 $ git clone
-
+$ catkin build 
 
 ## Usage
 
