@@ -10,11 +10,15 @@ Python3 package requests 2.18.4
 
 ## Implemented function Blocks
 
-| Number        | Name           |
-| ------------- |-------------|
-|    1   |Tightening to Torque without Angle supervision | 
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Number        | Name           | Required parameter  |
+| ------------- |-------------|-------------|
+|   1   |Tightening to Torque without Angle supervision | |
+|   6   | centered      | |
+|   6   | centered      | |
+|   4   | centered      | |
+|   24   | centered      | |
+|   25   | centered      | |
+|   26   | centered      | |
 
 ## Error Coding 
 • 0: No error
