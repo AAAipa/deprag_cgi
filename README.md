@@ -12,10 +12,11 @@ Python3 package requests 2.18.4
 
 | Number        | Name           | Required parameters  |
 | ------------- |-------------|-------------|
-|   1   |Tightening to Torque without Angle supervision | |
+|   1   |Tightening to Torque without Angle supervision |Maximum Screwdriving Time, Shut-off Torque, Minimum Torque, Maximum Torque, Screwdriver Speed, rpm, Torque Hold Time |
 |   6   |Loosen to Torque without Angle supervision     | |
 |   6   |Loosen to Torque with Angle supervision      | |
 |   4   |Tightening to External Signal      | |
+|   5   |Loosen to External Signal     | |
 |   24  |Display Values      |- |
 |   25  |Save Values      |- |
 |   26  |Statistic      |-|
