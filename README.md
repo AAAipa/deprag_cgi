@@ -10,9 +10,9 @@ Python3 package requests 2.18.4
 
 ## Implemented function Blocks
 
-| Tables        | Are           |
-| ------------- |:-------------:|
-| col 3 is      | right-aligned | 
+| Number        | Name           |
+| ------------- |-------------|
+|    1   |Tightening to Torque without Angle supervision | 
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
