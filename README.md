@@ -22,6 +22,7 @@ Python3 package requests 2.18.4
 |   26  |Statistic      |-|
 
 ## Building from Source
+$ git clone
 
 
 ## Usage
