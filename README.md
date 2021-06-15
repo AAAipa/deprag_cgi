@@ -21,6 +21,10 @@ Python3 package requests 2.18.4
 |   25  |Save Values      |- |
 |   26  |Statistic      |-|
 
+
+## Usage
+
+
 ## Error Coding 
 • 0: No error
 • 4: The program data could not be written
