@@ -22,8 +22,8 @@ Python3 package requests 2.18.4
 |   26  |Statistic      |-|
 
 ## Building from Source
-$ git clone
-$ catkin build 
+$ git clone <br/>
+$ catkin build <br/>
 
 ## Usage
 ### setup
@@ -32,6 +32,10 @@ The ip address of screwdriver controller is configurable at
 deprag_cgi_interface/src/deprag_cgi_node.py 
 
 ### programm transfer 
+Example 1: 
+$ rosservice call /create_pgm
+$ rosservice call /loosen_angle_super
+$ rosservice call /publish
 
 
 ## Error Coding 
