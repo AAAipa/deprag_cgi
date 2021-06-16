@@ -26,6 +26,10 @@ $ git clone
 $ catkin build 
 
 ## Usage
+### setup
+
+The ip address of screwdriver controller is configurable at
+deprag_cgi_interface/src/deprag_cgi_node.py 
 
 
 ## Error Coding 
