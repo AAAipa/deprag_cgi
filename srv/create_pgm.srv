@@ -1,0 +1,7 @@
+uint8 pgm_number
+string head_title
+uint8 head_dir
+uint8 head_feed
+uint8 torque_unit
+---
+int8 id 

@@ -1,0 +1,9 @@
+uint8 cid
+uint16 max_time
+float32 torque_cutoff
+float32 torque_min
+float32 torque_max
+uint16 rpm
+uint16 torque_hold
+---
+int8 id

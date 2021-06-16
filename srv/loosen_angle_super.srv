@@ -1,0 +1,11 @@
+uint8 cid
+uint16 max_time
+uint32 angle_shutoff
+uint32 angle_min
+uint32 angle_max
+float32 torque_min
+float32 torque_max
+uint16 rpm
+uint8 val_type
+---
+int8 id
