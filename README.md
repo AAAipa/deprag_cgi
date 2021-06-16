@@ -8,7 +8,7 @@ ROS Melodic
 ## Requiered Packages
 Python3 package requests 2.18.4
 
-## Implemented function Blocks
+## Implemented Function Blocks
 
 | Number        | Name           | Required parameters  |
 | ------------- |-------------|-------------|
@@ -31,7 +31,7 @@ $ catkin build <br/>
 The ip address of screwdriver controller is configurable at
 deprag_cgi_interface/src/deprag_cgi_node.py 
 
-### programm transfer 
+### Programm Transfer to Sequence Controller
 Example 1:<br/>
 $ rosservice call /create_pgm<br/>
 $ rosservice call /loosen_angle_super<br/>
