@@ -1,5 +1,5 @@
 # deprag_cgi_interface
-This repo contains a ros package, which handle the cgi interface for sequence Controller AST5, AST6, AST10, AST11, AST40 and for Base Station ComCenter 10
+This repo contains a ros package, which handle the cgi interface for sequence Controller AST5, AST6, AST10, AST11, AST40 and for Base Station ComCenter 10.
 
 
 ##  Used ROS Version
@@ -30,6 +30,8 @@ $ catkin build
 
 The ip address of screwdriver controller is configurable at
 deprag_cgi_interface/src/deprag_cgi_node.py 
+
+### programm transfer 
 
 
 ## Error Coding 
