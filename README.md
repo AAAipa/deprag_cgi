@@ -83,9 +83,6 @@ The program is now avaliable on the deprag device and the id is invalid, do not 
 When an error occures while a service is called the service will return a negative id. To find the corresponding error and line of code
 simply conduct a text search in the deprag_cgi_node.py script.
 
-## Used ROS Version
-ROS Melodic 
-
 ## References
 Implemented according to the manual Operating manual: External Program Creation, 013777XX
 
