@@ -91,3 +91,14 @@ Implemented according to the manual Operating manual: External Program Creation,
 Sponsored by the Ministry of the Environment Baden-Württemberg, in the context of the Strategic Dialogue Automotive Industry, and supervised by the Project Management Agency Karlsruhe (PTKA). Funding number: L7520101
 
 https://www.ipa.fraunhofer.de/de/referenzprojekte/DeMoBat.html
+
+## Contact
+For more information please feel free to contact:
+M.Sc. Anwar Al Assadi
+Wissenschaftlicher Mitarbeiter
+Fraunhofer‐Institut für
+Produktionstechnik und Automatisierung IPA
+Abteilung Roboter- und Assistenzsysteme
+Nobelstraße 12 │ 70569 Stuttgart 
+Telefon +49 711 970-1264 
+anwar.alassadi@ipa.fraunhofer.de
