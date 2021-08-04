@@ -36,9 +36,9 @@ also be set there.
 ### Programm Transfer to Sequence Controller
 
 Firstly open a terminal windows and build your workspace:
-
+'''
 $ catkin_make
-
+'''
 Then change your current directory to the deprag_cgi source and register the python script:
 
 $ roscd deprag_cgi/src
