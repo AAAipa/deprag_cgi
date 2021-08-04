@@ -68,13 +68,13 @@ id:11
 If id happens to be a negative value an error occured, therefore any software using these services should check if id is smaler than zero. Each value smaler than zero coresponds to a line of code where the error occured, therfore a text search of deprag_cgi_node.py will yield this line.
 
 To chain steps we simply call their services in order.
-
+```
 $ rosservice call /deprag_tighten_on_extern "{cid: 11, max_time: 36, angle_min: 20, angle_max: 630, torque_min: 5.0, torque_max: 15.0, rpm: 30, create_val: 1}"
-
+```
 Finaly to publish the program to the deprag device we call the deprag_publish service
-
+```
 $ rosservice call /deprag_publish "cid: 11"
-
+```
 The program is now avaliable on the deprag device and the id is invalid, do not use it anymore.
 
 
